@@ -1,0 +1,10 @@
+void main() {
+  int zahl = 10;
+  zahl += 5790;
+  zahl *=5;
+  print(zahl);
+  zahl -= 1;
+  zahl *= zahl;
+  print(zahl);
+  
+}
