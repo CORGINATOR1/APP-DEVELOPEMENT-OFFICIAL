@@ -1,0 +1,7 @@
+void main() {
+  int zahlengrenze = 9;
+  
+  zahlengrenze >= 10 ? print("Zahlengrenze ist grösser als 10!"):print("zahlengrenze ist kleiner al 101");
+  
+}
+//NICHT KURZSCHREIBWEISE: if(zahlengrenze > 10){print("Die Zahlengrenze ist größer als 10"); }else{print("Die Zahlengrenze ist nicht größer als 10"); }
