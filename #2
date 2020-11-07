@@ -1,0 +1,9 @@
+main() {
+String meinname = "Malte";
+print("Ich heisse $meinname");
+double q = 2.16;
+String w = q.toString();
+print(w);
+int e = meinname.length;
+print(e);
+  }
