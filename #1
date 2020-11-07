@@ -1,0 +1,15 @@
+main() {
+  int qwertz = 1;
+  int qwertz2 = 2;
+  double qwertz3 = 3.33;
+  double qwertz4 = 4.44;
+  String qwertz5 = "hi";
+  String qwertz6 = "du";
+
+  print(qwertz);
+  print(qwertz2);
+  print(qwertz3);
+  print(qwertz4);
+  print(qwertz5);
+  print(qwertz6);
+}
